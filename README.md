@@ -20,6 +20,7 @@
 - ⚡ In my free time, I love to **create 3D animations or play video games**.
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praptijaduvanshi&show_icons=true&locale=en&layout=compact" alt="praptijaduvanshi" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,5 +33,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praptijaduvanshi&show_icons=true&locale=en&layout=compact" alt="praptijaduvanshi" /></p>
 
