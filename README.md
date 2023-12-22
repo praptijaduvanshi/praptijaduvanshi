@@ -15,8 +15,6 @@
 
 - 🎓 I've completed my B.Tech in Computer Science and Engineering from **IIIT Gwalior**.
 
-- 💬 Ask me about **Machine Learning or PERN/MERN Stack**.
-
 - 📫 E-mail me at **khushi.jaduvanshi@gmail.com**.
 
 - ⚡ In my free time, I love to **create 3D animations or play video games**.
