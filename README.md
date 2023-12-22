@@ -6,6 +6,8 @@
 <!--<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praptijaduvanshi&label=Profile%20views&color=0e75b6&style=flat" alt="praptijaduvanshi" /> </p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=praptijaduvanshi&show_icons=true&locale=en&layout=compact" alt="praptijaduvanshi" /></p>
+
 
 - 💡 A dedicated problem-solver with a knack for analytical thinking.
 
@@ -20,10 +22,8 @@
 - ⚡ In my free time, I love to **create 3D animations or play video games**.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praptijaduvanshi&show_icons=true&locale=en&layout=compact" alt="praptijaduvanshi" /></p>
-
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me
+<!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 <a href="https://linkedin.com/in/prapti-jaduvanshi-abb1a2194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prapti-jaduvanshi-abb1a2194" height="30" width="40" /></a>
 <a href="https://medium.com/@khushijaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khushijaduvanshi" height="30" width="40" /></a>
