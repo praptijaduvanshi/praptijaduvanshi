@@ -19,6 +19,9 @@
 
 - ⚡ In my free time, I love to **create 3D animations or play video games**.
 
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prapti-jaduvanshi-abb1a2194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prapti-jaduvanshi-abb1a2194" height="30" width="40" /></a>
@@ -31,4 +34,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praptijaduvanshi&show_icons=true&locale=en&layout=compact" alt="praptijaduvanshi" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=praptijaduvanshi&" alt="praptijaduvanshi" /></p>
