@@ -10,6 +10,8 @@
 
 
 - 💡 A dedicated problem-solver with a knack for analytical thinking.
+  
+- ⌨️ I’m fluent in C/C++, Python, and JavaScript
 
 - 🔭 I’m currently doing my M.Tech in Computer Science and Engineering.
 
