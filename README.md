@@ -65,6 +65,7 @@
 <a href="https://linkedin.com/in/prapti-jaduvanshi-abb1a2194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prapti-jaduvanshi-abb1a2194" height="30" width="40" /></a>
 <a href="https://medium.com/@khushijaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khushijaduvanshi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@madbubblebee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="madbubblebee" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23206770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23206770" height="30" width="40" /></a>
 </p>
 
 
