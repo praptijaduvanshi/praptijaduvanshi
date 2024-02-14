@@ -1,21 +1,23 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif)
 
 <h1 align="center">Hello 👋, I'm Prapti Jaduvanshi</h1>
-<h3 align="center">A passionate computer science engineer from India</h3>
+<h3 align="center">An aspiring developHER from India</h3>
 
 <!--<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praptijaduvanshi&label=Profile%20views&color=0e75b6&style=flat" alt="praptijaduvanshi" /> </p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=praptijaduvanshi&show_icons=true&locale=en&layout=compact" alt="praptijaduvanshi" /></p>
 
+- 🎓 Currently pursing my Master's in Compute Science. 
 
-- 💡 A dedicated problem-solver with a knack for analytical thinking.
+- 👨‍💻 My programming journey began with C and C++. Then, I delved into machine learning throughout my Bachelor's studies- had the oppurtunity to hone my Python.
 
-- 🔭 I’m currently doing my M.Tech in Computer Science and Engineering.
+- 🌱 Taking the plunge back into development, I'm actively learning and honing my full-stack web development skills.
+  
+- ⚡ Besdies programming, I love to **create 3D animations or play video games**.
 
-- 🎓 I've completed my B.Tech in Computer Science and Engineering from **IIIT Gwalior**.
+- 🤝 I'd love to connect and grow my network! I'm reguarly active on <a href="https://linkedin.com/in/prapti-jaduvanshi"> LinkedIn </a>.
 
-- ⚡ In my free time, I love to **create 3D animations or play video games**.
 
 ## Languages and Tools
 ### Python tools
@@ -38,14 +40,17 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
     
-### More
+### Others..
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   </a> 
@@ -62,9 +67,11 @@
 <a href="https://linkedin.com/in/prapti-jaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prapti-jaduvanshi-abb1a2194" height="30" width="40" /></a>
 <a href="https://medium.com/@khushijaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khushijaduvanshi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@madbubblebee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="madbubblebee" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23206770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23206770" height="30" width="40" /></a>
+<!--<a href="https://stackoverflow.com/users/23206770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23206770" height="30" width="40" /></a> -->
 </p>
 
+## Streak check
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praptijaduvanshi&" alt="praptijaduvanshi" /></p>
 
 
