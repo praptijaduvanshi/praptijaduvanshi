@@ -18,8 +18,17 @@
 
 - 🤝 I'd love to connect and grow my network! I'm reguarly active on <a href="https://linkedin.com/in/prapti-jaduvanshi"> LinkedIn </a>.
 
+## Connect with me
+<!--<h3 align="left">Connect with me:</h3>-->
+<p align="left">
+<a href="https://dev.to/praptijaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="praptijaduvanshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prapti-jaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prapti-jaduvanshi-abb1a2194" height="30" width="40" /></a>
+<a href="https://medium.com/@khushijaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khushijaduvanshi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@madbubblebee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="madbubblebee" height="30" width="40" /></a>
+<!--<a href="https://stackoverflow.com/users/23206770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23206770" height="30" width="40" /></a> -->
+</p>
 
-## Languages and Tools
+## Skills
 ### Python tools
 <p align="left"> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
@@ -50,7 +59,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
     
-### Others..
+### Others...
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   </a> 
@@ -60,18 +69,7 @@
 </p>
 
 
-## Connect with me
-<!--<h3 align="left">Connect with me:</h3>-->
-<p align="left">
-<a href="https://dev.to/praptijaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="praptijaduvanshi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prapti-jaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prapti-jaduvanshi-abb1a2194" height="30" width="40" /></a>
-<a href="https://medium.com/@khushijaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khushijaduvanshi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@madbubblebee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="madbubblebee" height="30" width="40" /></a>
-<!--<a href="https://stackoverflow.com/users/23206770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23206770" height="30" width="40" /></a> -->
-</p>
-
 ## Streak check
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praptijaduvanshi&" alt="praptijaduvanshi" /></p>
 
 
