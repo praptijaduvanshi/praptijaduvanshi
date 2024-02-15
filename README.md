@@ -12,7 +12,7 @@
 
 - 👨‍💻 My programming journey began with C and C++. Then, I delved into machine learning throughout my Bachelor's studies- had the oppurtunity to hone my Python.
 
-- 🌱 Taking the plunge back into development, I'm actively learning and honing my full-stack web development skills.
+- 🌱 Taking the plunge back into development, I'm actively learning and practising my full-stack web development skills.
   
 - ⚡ Besdies programming, I love to **create 3D animations or play video games**.
 
