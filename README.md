@@ -16,7 +16,7 @@
   
 - ⚡ Besdies programming, I love to **create 3D animations or play video games**.
 
-- ✍️ Check out my latest blog on <a href="https://medium.com/@khushijaduvanshi/an-in-depth-look-into-japanese-web-design-ffd50cbbe945"> Medium </a>.
+- ✍️ Check out my latest blog on <a href="https://medium.com/@khushijaduvanshi/an-in-depth-look-into-japanese-web-design-ffd50cbbe945"> Japanese Web Designs </a>.
 
 - 🤝 I'd love to connect and grow my network! I'm reguarly active on <a href="https://linkedin.com/in/prapti-jaduvanshi"> LinkedIn </a>.
 
